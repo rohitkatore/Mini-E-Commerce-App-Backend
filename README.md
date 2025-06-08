@@ -29,7 +29,7 @@ A full-featured e-commerce backend API built with Node.js, Express, and MongoDB.
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/rohitkatore/Mini-E-Commerce-App-Backend.git)>
 cd Mini-E-Commerce-App
 ```
 
